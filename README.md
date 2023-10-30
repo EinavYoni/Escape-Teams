@@ -15,9 +15,9 @@ Engage in team battles of up to 10 players each, racing to complete the tasks an
 Will your team be the first to master the challenges and secure victory?
 
 # Running The Game
-1. Go to [Latest Release](https://github.com/orelgs/Escape-Teams/releases/latest).
+1. Go to [Latest Release](https://github.com/EinavYoni/Escape-Teams/releases/latest).
 2. Download the zip for the desired operating system.
-3. Follow the instructions for [Windows](https://github.com/orelgs/Escape-Teams#windows) / [Android](https://github.com/orelgs/Escape-Teams#android).
+3. Follow the instructions for [Windows](https://github.com/EinavYoni/Escape-Teams#windows) / [Android](https://github.com/EinavYoni/Escape-Teams#android).
 
 ### Windows
 1. Extract the zip.
@@ -29,4 +29,4 @@ Will your team be the first to master the challenges and secure victory?
 3. Install the application and run it.
 
 # Game Poster
-![Escape Teams Project Poster](https://github.com/orelgs/Escape-Teams/assets/100224882/d6c7749f-ed2a-480a-82ef-69d984253973)
+![Escape Teams Poster](https://github.com/EinavYoni/Escape-Teams/assets/103203329/3b7d509c-5a9e-42cb-881b-2ec75734f71b)
